@@ -67,6 +67,7 @@ public class PostsController : ControllerBase
         post.Title = updatePostDto.Title ?? post.Title;
         post.Content = updatePostDto.Content ?? post.Content;
         post.ImageUrl = updatePostDto.ImageUrl ?? post.ImageUrl;
+        post.UpdatedAt = DateTime.UtcNow;
 
         var result = await _context.SaveChangesAsync() > 0;
 

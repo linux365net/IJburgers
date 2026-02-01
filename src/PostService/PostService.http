@@ -1,6 +1,6 @@
-@PostService_HostAddress = http://localhost:5136
+@PostService_HostAddress = http://localhost:7001
 
-GET {{PostService_HostAddress}}/weatherforecast/
+GET {{PostService_HostAddress}}/api/posts
 Accept: application/json
 
 ###

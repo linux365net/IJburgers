@@ -25,7 +25,20 @@ public sealed class SecurityHeadersAttribute : ActionFilterAttribute
             }
 
             // https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy
-            var csp = "default-src 'self'; object-src 'none'; frame-ancestors 'none'; sandbox allow-forms allow-same-origin allow-scripts; base-uri 'self';";
+            var csp = "default-src 'self'; object-src 'none'; frame-ancestors 'none'; base-uri 'self';";
+            
+            // Configure different sandbox policies for development vs production
+            if (context.HttpContext.RequestServices.GetRequiredService<IWebHostEnvironment>().IsDevelopment())
+            {
+                // More permissive for development, allow WebSocket connections for hot reload
+                csp += " sandbox allow-forms allow-same-origin allow-scripts; connect-src 'self' ws: wss:;";
+            }
+            else
+            {
+                // More restrictive for production, avoid allow-scripts + allow-same-origin combination
+                csp += " sandbox allow-forms allow-scripts;";
+            }
+            
             // also consider adding upgrade-insecure-requests once you have HTTPS in place for production
             //csp += "upgrade-insecure-requests;";
             // also an example if you need client images to be displayed from twitter

@@ -1,0 +1,202 @@
+[
+    {
+        "id": "3fc651cf-cace-4020-a364-91f7664b6bce",
+        "title": "Buurtfeest organisatie: Wie helpt mee?",
+        "content": "Het is alweer een jaar geleden sinds ons laatste buurtfeest! Tijd voor een nieuw feest om iedereen weer bij elkaar te brengen. Wie wil helpen met organiseren? We hebben mensen nodig voor catering, entertainment, opruimen en meer.",
+        "createdAt": "2026-01-30T22:49:18.363933Z",
+        "updatedAt": "2026-01-30T22:49:18.363933Z",
+        "author": "Anna Kooistra",
+        "views": 0,
+        "imageUrl": "https://unsplash.com/photos/-LJmvGXl6yg/download?force=true"
+    },
+    {
+        "id": "38a3faa7-a208-4ffd-8d75-795752d1d8f3",
+        "title": "Gezamenlijke maaltijden voor alleenstaanden",
+        "content": "Eet je vaak alleen en vind je dat niet zo gezellig? Iedere donderdagavond organiseren we een gemeenschappelijke maaltijd in het wijkcentrum. Iedereen neemt iets mee en we eten samen. Aanmelden is niet nodig, gewoon komen!",
+        "createdAt": "2026-01-30T21:49:18.363936Z",
+        "updatedAt": "2026-01-30T21:49:18.363936Z",
+        "author": "Marijke van der Pol",
+        "views": 0,
+        "imageUrl": "https://example.com/images/community-dinner.jpg"
+    },
+    {
+        "id": "c05f8673-ddf7-4b9a-8dee-6742c723e67b",
+        "title": "Klusjesman voor kleine reparaties",
+        "content": "Ben je handig en wil je andere buurtbewoners helpen met kleine klusjes? Denk aan het ophangen van schilderijen, lekkende kranen of piepende deuren. Ik start een lijst van handige buren die elkaar kunnen helpen!",
+        "createdAt": "2026-01-30T20:49:18.363936Z",
+        "updatedAt": "2026-01-30T20:49:18.363936Z",
+        "author": "Ron van Leeuwen",
+        "views": 0,
+        "imageUrl": "https://example.com/images/handyman-help.jpg"
+    },
+    {
+        "id": "e019d09c-bbe4-4434-abfa-00a71bf9f09e",
+        "title": "Seniorenuitjes: Gezellig samen op pad",
+        "content": "Voor alle senioren in onze buurt: wie heeft er zin in maandelijkse uitjes? We kunnen samen naar musea, parken bezoeken of gezellig lunchen. Transport kunnen we samen regelen. Het is fijn om niet altijd alleen te hoeven gaan!",
+        "createdAt": "2026-01-30T18:49:18.363936Z",
+        "updatedAt": "2026-01-30T18:49:18.363936Z",
+        "author": "Greet Wouters",
+        "views": 0,
+        "imageUrl": "https://example.com/images/senior-outings.jpg"
+    },
+    {
+        "id": "308863c7-d962-4d2d-95a8-4f39f8dbe745",
+        "title": "Buurt-app groepsaankopen: Samen goedkoper winkelen",
+        "content": "Wie heeft er interesse in groepsaankopen? We kunnen samen grote verpakkingen kopen en verdelen. Denk aan wasmiddel, toiletpapier, of seizoensgroenten. Goedkoper en minder verpakking! Reageer als je mee wilt doen.",
+        "createdAt": "2026-01-30T16:49:18.363935Z",
+        "updatedAt": "2026-01-30T16:49:18.363935Z",
+        "author": "Carla Verhoeven",
+        "views": 0,
+        "imageUrl": "https://example.com/images/group-buying.jpg"
+    },
+    {
+        "id": "8475f1d7-41d8-4286-a90b-0718422b358e",
+        "title": "Taalmaatjes gezocht voor nieuwe buren",
+        "content": "We hebben nieuwe buren gekregen uit Syrië en ze willen graag Nederlands leren. Wie wil er taalmaatje worden? Je hoeft geen leraar te zijn, gewoon geduld hebben en tijd om te oefenen. Het is een mooie manier om elkaar beter te leren kennen!",
+        "createdAt": "2026-01-30T13:49:18.363935Z",
+        "updatedAt": "2026-01-30T13:49:18.363935Z",
+        "author": "Inge Scholten",
+        "views": 0,
+        "imageUrl": "https://example.com/images/language-buddy.jpg"
+    },
+    {
+        "id": "003c5f6b-606c-43f5-8589-c2a94678d3fc",
+        "title": "Repair Café: Samen repareren in plaats van weggooien",
+        "content": "Elke tweede zondag van de maand organiseren we een Repair Café in het wijkcentrum. Breng kapotte spullen mee en we kijken samen of we ze kunnen repareren. Goed voor het milieu en gezellig om samen te doen!",
+        "createdAt": "2026-01-30T10:49:18.363935Z",
+        "updatedAt": "2026-01-30T10:49:18.363935Z",
+        "author": "Femke Jansen",
+        "views": 0,
+        "imageUrl": "https://example.com/images/repair-cafe.jpg"
+    },
+    {
+        "id": "51aa8016-846c-45e8-9cba-e6e44060d77c",
+        "title": "Huisdieren opvang tijdens vakantie",
+        "content": "Ga je op vakantie en zoek je opvang voor je huisdier? Wij hebben ervaring met verschillende dieren en zorgen graag voor jouw trouwe viervoeter. In ruil zouden we het fijn vinden als jij op onze kat past wanneer wij weggaan!",
+        "createdAt": "2026-01-30T07:49:18.363934Z",
+        "updatedAt": "2026-01-30T07:49:18.363934Z",
+        "author": "Lisa en Mike",
+        "views": 0,
+        "imageUrl": "https://example.com/images/pet-sitting.jpg"
+    },
+    {
+        "id": "5548dc92-6e55-41fa-9ad9-6485e1fb83dc",
+        "title": "Kinderen leren fietsen: Gratis fietsles!",
+        "content": "Ik ben een gepensioneerde gymleraar en wil graag kinderen in de buurt helpen om te leren fietsen. Gratis natuurlijk! Iedere zaterdagochtend op het parkeerterrein achter de school. Neem je eigen fiets mee, de rest regel ik.",
+        "createdAt": "2026-01-30T04:49:18.363934Z",
+        "updatedAt": "2026-01-30T04:49:18.363934Z",
+        "author": "Henk van der Meer",
+        "views": 0,
+        "imageUrl": "https://example.com/images/bike-lessons.jpg"
+    },
+    {
+        "id": "0edff740-b1d0-46f7-84c3-ec96965dbcd7",
+        "title": "Buurtwacht: Samen zorgen voor veiligheid",
+        "content": "We merken dat er de laatste tijd meer fietsdiefstallen zijn in onze buurt. Wie heeft er zin om mee te doen aan een buurtwacht? We kunnen wandelingetjes maken en een oogje in het zeil houden. Samen staan we sterker!",
+        "createdAt": "2026-01-30T02:49:18.363934Z",
+        "updatedAt": "2026-01-30T02:49:18.363934Z",
+        "author": "Jan Mulder",
+        "views": 0,
+        "imageUrl": "https://example.com/images/neighborhood-watch.jpg"
+    },
+    {
+        "id": "e7a94f4e-4cc0-4690-bac7-7397d3d1a509",
+        "title": "Gereedschap delen: Mijn boormachine staat voor je klaar",
+        "content": "Waarom zou iedereen een boormachine moeten kopen als we kunnen delen? Mijn boormachine staat klaar voor buurtbewoners die hem nodig hebben. Laten we meer van dit soort initiatieven starten! Welke gereedschappen kun jij delen?",
+        "createdAt": "2026-01-29T23:49:18.363933Z",
+        "updatedAt": "2026-01-29T23:49:18.363934Z",
+        "author": "Robert de Wit",
+        "views": 0,
+        "imageUrl": "https://unsplash.com/photos/-LJmvGXl6yg/download?force=true"
+    },
+    {
+        "id": "ad9d8fec-9f80-4a30-a8f2-3e7b8b15d1e8",
+        "title": "Wie wil meehelpen met hondenuitlaatservice?",
+        "content": "Voor oudere buurtbewoners die niet meer zo goed ter been zijn, willen we een hondenuitlaatservice opzetten. Wie heeft er tijd en zin om af en toe een hondje uit te laten? Het is ook gezellig voor de hondjes en hun baasjes!",
+        "createdAt": "2026-01-29T22:49:18.363933Z",
+        "updatedAt": "2026-01-29T22:49:18.363933Z",
+        "author": "Mark Peters",
+        "views": 0,
+        "imageUrl": "https://unsplash.com/photos/-LJmvGXl6yg/download?force=true"
+    },
+    {
+        "id": "ad04174d-e033-4132-9c74-5174c9a6a63a",
+        "title": "Buurtbibliotheek in de boekenkast bij de bushalte",
+        "content": "Goed nieuws! We hebben een buurtbibliotheek geplaatst bij de bushalte op het pleintje. Iedereen kan gratis boeken lenen en inleveren. Help mee door je uitgelezen boeken toe te voegen. Lezen is leuk en dit maakt onze buurt nog leuker!",
+        "createdAt": "2026-01-28T22:49:18.363932Z",
+        "updatedAt": "2026-01-28T22:49:18.363932Z",
+        "author": "Els van Dijk",
+        "views": 0,
+        "imageUrl": "https://unsplash.com/photos/-LJmvGXl6yg/download?force=true"
+    },
+    {
+        "id": "30e68bbd-5ef3-4917-a46a-d35ff0c3fce8",
+        "title": "Hulp nodig bij verhuizing volgende week",
+        "content": "Mijn zoon en ik gaan volgende week verhuizen en kunnen wel wat extra handen gebruiken. Het gaat om een verhuizing binnen de wijk, dus niet ver. Als beloning trakteren we op pizza en drankjes! Zaterdag vanaf 10:00 uur.",
+        "createdAt": "2026-01-27T22:49:18.363931Z",
+        "updatedAt": "2026-01-27T22:49:18.363932Z",
+        "author": "Karin Smit",
+        "views": 0,
+        "imageUrl": "https://unsplash.com/photos/-LJmvGXl6yg/download?force=true"
+    },
+    {
+        "id": "937f7a4a-fc20-4f27-8be3-a68e623139c3",
+        "title": "Buurtmoestuin project: Meedoen?",
+        "content": "We willen graag een buurtmoestuin starten in het braakliggende terrein bij de speeltuin. Wie heeft er zin om mee te doen? We kunnen samen groenten kweken en de oogst delen. Het is ook een mooie manier om de buurt groener en gezelliger te maken!",
+        "createdAt": "2026-01-26T22:49:18.363931Z",
+        "updatedAt": "2026-01-26T22:49:18.363931Z",
+        "author": "Peter Willems",
+        "views": 0,
+        "imageUrl": "https://unsplash.com/photos/-LJmvGXl6yg/download?force=true"
+    },
+    {
+        "id": "c4358367-742f-4125-9ae7-dfbebe76a436",
+        "title": "Gratis computer hulp voor senioren",
+        "content": "Worstelt u met uw computer, tablet of smartphone? Ik ben IT-student en bied gratis computerhulp aan senioren in onze wijk. Van het instellen van apps tot het versturen van e-mails, ik help graag! Gewoon contact opnemen.",
+        "createdAt": "2026-01-25T22:49:18.36393Z",
+        "updatedAt": "2026-01-25T22:49:18.363931Z",
+        "author": "David Chen",
+        "views": 0,
+        "imageUrl": "https://unsplash.com/photos/-LJmvGXl6yg/download?force=true"
+    },
+    {
+        "id": "25ca8e21-5f62-46a5-85a8-5b565ef16c96",
+        "title": "Oppas ruil: Jouw avondje uit, mijn hulp",
+        "content": "Ben je ouder en wil je graag eens een avondje uit? Ik bied aan om op je kinderen te passen in ruil voor een wederdienst wanneer ik het nodig heb. Ik heb ervaring met kinderen van alle leeftijden en kan goede referenties geven.",
+        "createdAt": "2026-01-24T22:49:18.36393Z",
+        "updatedAt": "2026-01-24T22:49:18.36393Z",
+        "author": "Sophie Bakker",
+        "views": 0,
+        "imageUrl": "https://unsplash.com/photos/-LJmvGXl6yg/download?force=true"
+    },
+    {
+        "id": "416b5bd2-3d61-4ae2-83f9-3439bd79507b",
+        "title": "Buurtschoonmaakdag: Wie doet er mee?",
+        "content": "Het wordt tijd om onze buurt weer eens goed schoon te maken! Ik organiseer aanstaande zaterdag een buurtschoonmaakdag. We beginnen om 9:00 bij het wijkcentrum. Neem je eigen handschoenen mee, zakken en grijpers zorgen we voor. Na afloop drinken we samen koffie!",
+        "createdAt": "2026-01-23T22:49:18.36393Z",
+        "updatedAt": "2026-01-23T22:49:18.36393Z",
+        "author": "Linda de Vries",
+        "views": 0,
+        "imageUrl": "https://unsplash.com/photos/-LJmvGXl6yg/download?force=true"
+    },
+    {
+        "id": "629e5d18-5805-43da-a678-3cc5e948ad8b",
+        "title": "Gratis hulp bij tuinonderhoud voor senioren",
+        "content": "Ik ben student en wil graag iets terugdoen voor onze gemeenschap. Ik bied gratis hulp aan bij tuinonderhoud voor senioren in onze buurt. Denk aan onkruid wieden, gras maaien, heggen knippen. Stuur me een berichtje als je hulp nodig hebt!",
+        "createdAt": "2026-01-22T22:49:18.363929Z",
+        "updatedAt": "2026-01-22T22:49:18.363929Z",
+        "author": "Tom Jansen",
+        "views": 0,
+        "imageUrl": "https://unsplash.com/photos/-LJmvGXl6yg/download?force=true"
+    },
+    {
+        "id": "6dec503d-586b-4976-910e-aa3cbae5d05a",
+        "title": "Buurthulp: Wie kan mij helpen met boodschappen?",
+        "content": "Hallo buurtbewoners! Door een blessure kan ik deze week niet zelf boodschappen doen. Is er iemand die mij zou kunnen helpen? Ik woon aan de Hoofdstraat 25. Graag zou ik woensdagmiddag de boodschappen willen doen. Natuurlijk vergoed ik alle kosten en geef ik een kleine attentie voor de moeite!",
+        "createdAt": "2026-01-20T22:49:18.363845Z",
+        "updatedAt": "2026-01-20T22:49:18.36388Z",
+        "author": "Maria van der Berg",
+        "views": 0,
+        "imageUrl": "https://unsplash.com/photos/-LJmvGXl6yg/download?force=true"
+    }
+]
